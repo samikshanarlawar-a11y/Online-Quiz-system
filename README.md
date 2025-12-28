@@ -1,10 +1,9 @@
 # Online Quiz System (Java)
 
-## Description
 This is a console-based Online Quiz System developed using Core Java.
 The project allows users to answer multiple-choice questions and calculates the final score.
-
-## Features
+ 
+ ## Features
 - MCQ based quiz
 - Score calculation
 - Pass/Fail result
