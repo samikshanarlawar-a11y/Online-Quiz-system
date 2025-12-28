@@ -1,4 +1,4 @@
-# Online Quiz System (Java)
+# Online Quiz System (Java)🧠❓
 
 This is a console-based Online Quiz System developed using Core Java.
 The project allows users to answer multiple-choice questions and calculates the final score.
